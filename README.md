@@ -22,39 +22,15 @@ I'm a dedicated developer focused on building practical and efficient solutions.
 
 
 ## 🛠️ Tech Stack
+<div>
+A concise overview of the tools and technologies I work with:
 
-### **Programming Languages**
-
-🐍 Python • ☕ Java 
-
-
-### **Core Strengths**
-
-🧠 Machine Learning (ML)
-📚 Data Structures & Algorithms (DSA)
-⚙️ OOPs Concepts
-
-
-### **Databases**
-
-🗄️ MySQL 
-
-
-### **Machine Learning / Data Science Tools**
-
-📊 NumPy • Pandas • Scikit-Learn • Matplotlib • Seaborn
-* Currently Learning: **Data Science**, **Deep Learning**
-
-
-### **Web Technologies**
-
-🌐 HTML • CSS • JavaScript • Flask • Streamlit
-
-
-### **Tools & Platforms**
-
-🧰 Git/GitHub • VS Code • Jupyter Notebook • Google Colab
-
+* **Languages :**   Python  |  Java 
+* **Core Skills :**   Machine Learning  |  DSA  |  OOP
+* **Databases :**   MySQL  |  MongoDB
+* **Web Technologies :**   HTML  |  CSS  |  JavaScript  |  MERN
+* **Frameworks/Tools :**   Flask  |  Streamlit
+* **Platforms :**   Git  |  GitHub  |  VS Code  |  Jupyter  |  Colab
 </div>
 
 
@@ -74,7 +50,7 @@ I'm a dedicated developer focused on building practical and efficient solutions.
 
 * **Email:** *sanikad2507@gmail.com*
 * **Portfolio:** *Comming Soon...*
-
+* **My Resume:** [Resume](https://github.com/Sanika2504/Sanika2504/blob/main/Resume.pdf)
 
 
 
