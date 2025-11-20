@@ -79,6 +79,6 @@ A concise overview of the tools and technologies I work with:
 
 <div align="center">
 
-⭐ *Thanks for stopping by! If you like my work, consider giving some repos a star.* ⭐
+*Thanks for stopping by!*
 
 </div>
