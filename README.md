@@ -50,7 +50,7 @@ A concise overview of the tools and technologies I work with:
 
 * **Email:** *sanikad2507@gmail.com*
 * **Portfolio:** *Comming Soon...*
-* **My Resume:** [Resume](https://github.com/Sanika2504/Sanika2504/blob/main/Resume.pdf)
+* **My Resume:** [Resume](https://drive.google.com/file/d/1K1XCOfwNxHo4lJz2IK0frrBm7GjoaMpQ/view?usp=drive_link)
 
 
 
