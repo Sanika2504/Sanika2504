@@ -28,7 +28,7 @@ A concise overview of the tools and technologies I work with:
 * **Languages :**   Python  |  Java 
 * **Core Skills :**   Machine Learning  |  DSA  |  OOP
 * **Databases :**   MySQL  |  MongoDB
-* **Web Technologies :**   HTML  |  CSS  |  JavaScript  |  MERN
+* **Web Technologies :**   HTML  |  CSS  |  JavaScript
 * **Frameworks/Tools :**   Flask  |  Streamlit
 * **Platforms :**   Git  |  GitHub  |  VS Code  |  Jupyter  |  Colab
 </div>
