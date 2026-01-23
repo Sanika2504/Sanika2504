@@ -30,7 +30,7 @@ A concise overview of the tools and technologies I work with:
 * **Databases :**   MySQL  |  MongoDB
 * **Web Technologies :**   HTML  |  CSS  |  JavaScript
 * **Frameworks/Tools :**   Flask  |  Streamlit
-* **Platforms :**   Git  |  GitHub  |  VS Code  |  Jupyter  |  Colab
+* **Platforms :**   Git  |  GitHub  |  Jupyter  |  Colab
 </div>
 
 
