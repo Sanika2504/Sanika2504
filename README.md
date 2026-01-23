@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-I'm a dedicated developer focused on building practical and efficient solutions. My interests revolve around **Machine Learning**, **Data Structures & Algorithms**, and writing clean, maintainable code in **Python** and **Java**. Alongside ML and core programming, I also have a strong interest in the **MERN stack**. Over time, I discovered that I enjoy understanding how things work, improving them, and making them more reliable. I enjoy learning new tools, improving my workflow, and keeping up with evolving technologies.  Currently, I'm expanding my knowledge in **Data Science**, strengthening my ML concepts, and working on projects that combine data-driven thinking with real‑world applications.
+I'm a dedicated developer focused on building practical and efficient solutions. My interests revolve around **Machine Learning**, **Data Structures & Algorithms**, and writing clean, maintainable code in **Python** and **Java**. I enjoy learning new tools, improving my workflow, and keeping up with evolving technologies.  Currently, I'm expanding my knowledge in **Data Science**, strengthening my ML concepts, and working on projects that combine data-driven thinking with real‑world applications.
 
 
 
